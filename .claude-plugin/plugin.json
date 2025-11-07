@@ -1,0 +1,13 @@
+{
+  "name": "dev-forge-plugin",
+  "version": "0.1.0",
+  "description": "Development Forge Plugin for Claude Code",
+  "author": {
+    "name": "Matthias Marschall",
+    "url": "https://github.com/mmarschall"
+  },
+  "homepage": "https://github.com/mmarschall/dev-forge-plugin",
+  "repository": "https://github.com/mmarschall/dev-forge-plugin",
+  "license": "MIT",
+  "keywords": ["development", "forge", "tools"]
+}

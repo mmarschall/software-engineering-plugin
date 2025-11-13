@@ -15,7 +15,7 @@ To install this plugin in Claude Code:
 /plugin marketplace add mmarschall/software-engineering-plugin
 
 # Install the plugin
-/plugin install software-engineering-plugin@software-engineering-plugin
+/plugin install software-engineering-plugin@software-engineering-marketplace
 ```
 
 Or install locally for development:

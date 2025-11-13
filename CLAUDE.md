@@ -55,7 +55,7 @@ Or install from GitHub:
 /plugin marketplace add mmarschall/software-engineering-plugin
 
 # Install the plugin
-/plugin install software-engineering-plugin@software-engineering-plugin
+/plugin install software-engineering-plugin@software-engineering-marketplace
 ```
 
 ## Creating New Components
